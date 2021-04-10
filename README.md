@@ -6,7 +6,7 @@
 
 Esse projeto é apenas um Layout de um site (sem funcionalidades). Nele eu pratiquei os conceitos de Flexbox, do CSS
 
-#Tecnologia Utilizada
+# Tecnologia Utilizada
 
 - HTML
 - CSS
